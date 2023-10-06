@@ -3,6 +3,7 @@ This repo is a place to save my coding and small lessons of Introduction to web 
 ![Introduction to web development!](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif))
 
 ### This Is A Sample Code
+
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
@@ -60,14 +61,6 @@ This repo is a place to save my coding and small lessons of Introduction to web 
 			<li><a href="links.html">Links</a></li>
 		</ul> 
 	</div>
-
-<div class="legal"> 
-	<ul id="navlist"> 
-		<li><a href="copyright.html">Copyright 2021 Bernie Monette all rights reserved</a></li>
-		<li> <a href="privacy.html">Privacy</a></li> 
-		<li><a href="terms.html">Terms of Use</a></li>
-	</ul>
-</div>
 
 
 </body>
